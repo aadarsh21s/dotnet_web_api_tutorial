@@ -33,3 +33,4 @@
 /Users/aadarshshroff/MyApiProject/obj/Debug/net9.0/MyApiProject.pdb
 /Users/aadarshshroff/MyApiProject/obj/Debug/net9.0/MyApiProject.genruntimeconfig.cache
 /Users/aadarshshroff/MyApiProject/obj/Debug/net9.0/ref/MyApiProject.dll
+/Users/aadarshshroff/MyApiProject/obj/Debug/net9.0/MyApiProject.sourcelink.json
